@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "asn1js": "^3.0.5",
-    "bytestreamjs": "^2.0.0",
+    "bytestreamjs": "^2.0.1",
     "pvtsutils": "^1.3.2",
     "pvutils": "^1.1.3",
     "tslib": "^2.4.0"
